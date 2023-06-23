@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 225, 55);
+}
+
+#score{
+    font-size: 24px;
+    margin-right: 200px;
+}
+
+#time{
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#sketch{
+    color: red;
+}
